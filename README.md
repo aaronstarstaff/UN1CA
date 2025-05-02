@@ -23,8 +23,9 @@ Its build system allows to automatically download/extract the firmware, apply th
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
 
-# Devices (s5e8825)
+# Devices (s5e8825/s5e8835)
 - Galaxy A53 (a53x): Supported, Maintained (A536B/E)
+- Galaxy A35 (a35x) Supported, Maintained (A356U1/W)
 - Galaxy A25 (a25x): Supported, Not Maintained
 - Galaxy A33 (a33x): Not Supported, Not Maintained
 - Galaxy M34 (m34x): Not Supported, Not Maintained
